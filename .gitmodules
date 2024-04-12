@@ -1,0 +1,6 @@
+[submodule "rp-hal"]
+	path = rp-hal
+	url = https://github.com/rp-rs/rp-hal.git
+[submodule "embassy"]
+	path = embassy
+	url = https://github.com/embassy-rs/embassy.git
